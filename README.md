@@ -1,1 +1,1 @@
-# Tugas Deep Learning (Python)  
+# Deep Learning (Python)  
